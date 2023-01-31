@@ -19,7 +19,7 @@
 
 ## 🛠 Skills
 - [x]  Data Analytics
-- [x]  Marketting and Inbound
+- [x]  Marketing and Inbound
 - [x]  Data Structures And Algorithms.
 - [x]  Figma
 - [x]  Machine Learning
