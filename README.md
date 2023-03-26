@@ -28,6 +28,8 @@
 - [x]  C++
 - [x]  Python
 - [x]  Content Development
+- [X]  HTML
+- [X]  CSS
 
 
 
