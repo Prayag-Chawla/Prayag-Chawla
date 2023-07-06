@@ -30,6 +30,9 @@
 - [x]  Content Development
 - [X]  HTML
 - [X]  CSS
+- [x]  Django
+- [x]  Flask
+- [x]  Data visualisation
 
 
 
