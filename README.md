@@ -5,10 +5,11 @@
 
 
 ## 🚀 About Me
-- Student at TIET,Patiala(B.E. ENC), batch of 2025.
-- I’m interested in Artificial Intelligence, Machine learning, deep learning, and web designing.
+- Student at TIET, Patiala(B.E. ENC), batch of 2025.
+- Intern at JP Morgan and Chase, Global Risk and Compliance, at Mumbai, India.
+- I’m interested in artificial intelligence, machine learning, deep learning, and web design.
 - I’m currently learning DSA and ML/DL.
-- Goal- to become a full fledged data scientist and a tech geek.
+- Goal- to become a full-fledged data scientist and a tech geek.
 -  How to reach me https://linktr.ee/Prayag_Chawla (my linktree)
 -  Fun fact - I put cumin in maggi.))
 ## 🔗 Links
