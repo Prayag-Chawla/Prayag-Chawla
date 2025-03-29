@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 - Student at TIET, Patiala(B.E. ENC), batch of 2025.
-- Intern at JP Morgan and Chase, Global Risk and Compliance, at Mumbai, India.
+- Intern at JP Morgan and Chase, Global Risk and Compliance, in Mumbai, India.
 - I’m interested in artificial intelligence, machine learning, deep learning, and web design.
 - I’m currently learning DSA and ML/DL.
 - Goal- to become a full-fledged data scientist and a tech geek.
--  How to reach me https://linktr.ee/Prayag_Chawla (my linktree)
--  Fun fact - I put cumin in maggi.))
+-  How to reach me https://linktr.ee/Prayag_Chawla (my link tree)
+-  Fun fact - I put cumin in Maggi.))
 ## 🔗 Links
 [![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@chawlapc.619)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayag-chawla-163b30216/)
@@ -34,6 +34,16 @@
 - [x]  Django
 - [x]  Flask
 - [x]  Data visualisation
+- [x]  Alteryx
+- [x]  Data Science
+- [x]  RAG
+- [x]  Tableau
+- [x]  MATLAB
+- [x]  Robot Operating System
+- [x]  Visual Programming language
+- [x]  Issac Simulator
+- [x]  Intelligent Solutions
+    
 
 
 
@@ -49,10 +59,10 @@ Here is some creativity flex.
 
 ## Support
 
-For support, email chawlapc.619@gmail.com or my linked in.
+For support, email chawlapc.619@gmail.com or my LinkedIn.
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at prayag.9503@gmail.com
+If you have any feedback, please contact me at chawlapc.619@gmail.com
 
