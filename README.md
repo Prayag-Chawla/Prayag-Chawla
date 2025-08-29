@@ -5,13 +5,13 @@
 
 
 ## 🚀 About Me
-- Student at TIET, Patiala(B.E. ENC), batch of 2025.
-- Intern at JP Morgan and Chase, Global Risk and Compliance, in Mumbai, India.
-- I’m interested in artificial intelligence, machine learning, deep learning, and web design.
-- I’m currently learning DSA and ML/DL.
+- TIET, Patiala(B.E. ENC), batch of 2025.
+- Credit Office Analyst at JP Morgan and Chase, CIB CRE CTL QC Support Team, in Bengaluru, India.
+- I’m interested in artificial intelligence, machine learning, deep learning, LLM, RAG, NLP, and related domains.
+- I’m currently exploring the field of DevOps.
 - Goal- to become a full-fledged data scientist and a tech geek.
--  How to reach me https://linktr.ee/Prayag_Chawla (my link tree)
--  Fun fact - I put cumin in Maggi.))
+- How to reach me https://linktr.ee/Prayag_Chawla (my link tree)
+- Fun fact - I put cumin in Maggi.))
 ## 🔗 Links
 [![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@chawlapc.619)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayag-chawla-163b30216/)
